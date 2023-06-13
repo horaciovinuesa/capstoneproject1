@@ -1,2 +1,2 @@
-# capstoneproject1
-CapstoneProject1
+# capstone project 1
+Simple HTML resume project.
